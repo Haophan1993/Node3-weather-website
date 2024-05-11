@@ -25,6 +25,7 @@ weatherForm.addEventListener('submit', (e)=>{
         messageOne.textContent=data.puzzle
         messageTwo.textContent='Your location is '+location
     })
+    
 
     
 })
